@@ -33,6 +33,11 @@ export default {
         title: 'Дополнительные детали',
         type: 'text',
       },
+      {
+        name: 'username',
+        title: 'Имя пользователя телеграм',
+        type: 'string',
+      },
     ],
   };
   
